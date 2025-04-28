@@ -84,7 +84,7 @@ Happy visualizing! 🎨📈
 
 ## 🔗 References
 
-- [IBM Data Visualization Course (Coursera)](https://www.coursera.org/learn/data-visualization-with-python)
+- [IBM Data Visualization Course (Coursera)](https://www.coursera.org/learn/python-for-data-visualization/)
 - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
 - [Seaborn Documentation](https://seaborn.pydata.org/)
 - [Plotly & Dash Documentation](https://plotly.com/python/)
